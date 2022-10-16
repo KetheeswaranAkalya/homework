@@ -4,33 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a85ad062-7747-433e-9ed6-97bc06272deb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/controller/DisplaySchedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/controller/MarkAbsence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/controller/SelectMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/presenter/ConsolePresenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/view/view.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/datatransferobjects/MarkAbsenceDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/datatransferobjects/ScheduleDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/datatransferobjects/response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/entities/Absence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/entities/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/entities/Schedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/gateways/iRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/usecases/MarkAbsenceInteractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/usecases/ScheduleInteractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/src/main/java/repositories/MemoryRepositories.java" afterDir="false" />
+    <list default="true" id="a85ad062-7747-433e-9ed6-97bc06272deb" name="Changes" comment="e">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665647233965</updated>
     </task>
+    <task id="LOCAL-00001" summary="e">
+      <created>1665941431980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665941431980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,5 +74,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="e" />
+    <option name="LAST_COMMIT_MESSAGE" value="e" />
   </component>
 </project>

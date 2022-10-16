@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a85ad062-7747-433e-9ed6-97bc06272deb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/controller/DisplaySchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/controller/MarkAbsence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/controller/SelectMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/presenter/ConsolePresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/view/view.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/datatransferobjects/MarkAbsenceDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/datatransferobjects/ScheduleDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/datatransferobjects/response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/entities/Absence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/entities/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/entities/Schedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/gateways/iRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/usecases/MarkAbsenceInteractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/usecases/ScheduleInteractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/src/main/java/repositories/MemoryRepositories.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/core/src/main/java/datatransferobjects/response.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G4UDer6X7fPigcrIAE0084SzIw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a85ad062-7747-433e-9ed6-97bc06272deb" name="Changes" comment="" />
+      <created>1665647233965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665647233965</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
